@@ -74,7 +74,7 @@ export const eduDetails = [
   {
     Position: "Bachelor of Technology, Electrical Engineering",
     Company: `Giani Zail Singh Campus College of Engineering & Technology Bathinda(Punjab)`,
-    Location: "Bengaluru",
+    Location: "Punjab",
     Type: "Full Time",
     Duration: "Aug 2016 - JUly 2020",
   },
